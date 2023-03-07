@@ -1,0 +1,4 @@
+﻿  Class.cpp
+D:\C++\C++ Project\C++ Project\Class.h(24,9): warning C4305: '=': 'int'에서 'unsigned char'(으)로 잘립니다.
+D:\C++\C++ Project\C++ Project\Class.h(24,6): warning C4309: '=': 상수 값이 잘립니다.
+  C++ Project.vcxproj -> D:\C++\C++ Project\x64\Debug\C++ Project.exe
