@@ -1,6 +1,6 @@
 # C++ Study
 
-<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=C%20Study&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Cplusplus%20Study&fontSize=90" />
 
 > C# Study는 Visual Studio 2019버전으로 K-Digital Trainging 과정 중 학습한 내용을 정리하였습니다.
 <br/> **기간** : 2023년 3월 07일 시작
