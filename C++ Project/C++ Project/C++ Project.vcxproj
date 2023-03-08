@@ -131,7 +131,9 @@
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="backjun1_1.cpp" />
+    <ClCompile Include="backjun1_2.cpp" />
     <ClCompile Include="Class.cpp" />
+    <ClCompile Include="Class_03_08.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
