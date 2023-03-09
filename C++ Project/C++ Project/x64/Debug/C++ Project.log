@@ -1,2 +1,5 @@
-﻿  backjun1_2.cpp
+﻿  backjun1_4.cpp
+D:\C++\C++ Project\C++ Project\backjun1_4.cpp(1,1): warning C4828: 파일에 0xc6 오프셋에서 시작하는 문자가 포함되어 있습니다. 이 문자는 현재 원본 문자 집합에서 잘못된 문자입니다(코드 페이지 949).
+  backjun1_5.cpp
+  코드를 생성하고 있습니다...
   C++ Project.vcxproj -> D:\C++\C++ Project\x64\Debug\C++ Project.exe
