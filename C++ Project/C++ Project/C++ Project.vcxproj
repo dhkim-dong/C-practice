@@ -130,6 +130,8 @@
     <ClInclude Include="Class.h" />
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="230311_4_1_backjun_.cpp" />
+    <ClCompile Include="backjun 3_1.cpp" />
     <ClCompile Include="backjun1_1.cpp" />
     <ClCompile Include="backjun1_2.cpp" />
     <ClCompile Include="backjun1_3.cpp" />
@@ -137,6 +139,8 @@
     <ClCompile Include="backjun1_5.cpp" />
     <ClCompile Include="Class.cpp" />
     <ClCompile Include="Class_03_08.cpp" />
+    <ClCompile Include="class_03_11.cpp" />
+    <ClCompile Include="class_03_13.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
