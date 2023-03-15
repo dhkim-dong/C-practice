@@ -56,5 +56,8 @@
     <ClCompile Include="class_03_13.cpp">
       <Filter>헤더 파일</Filter>
     </ClCompile>
+    <ClCompile Include="class_03_15.cpp">
+      <Filter>헤더 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

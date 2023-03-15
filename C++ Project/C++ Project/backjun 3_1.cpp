@@ -6,7 +6,7 @@
 
 using namespace std;
 
-int main() {
+int main52335() {
     int a;
     cin >> a;
     for (int i = 0; i < a / 4; i++) {

@@ -33,7 +33,7 @@ using namespace std;
 
 // 비트 연산자
 // 쉬프트 <<. >>
-int main() 
+int main343() 
 {
 	unsigned char byte = 1;
 
@@ -62,4 +62,5 @@ int main()
 	// 특정 자리 비트 제거
 	iStatus &= -THIRSTY; // 원래 숫자는 그대로 유지하면서 특정 자리 비트만 0이기 때문에 변경해준다. 
 
+	return 0;
 }

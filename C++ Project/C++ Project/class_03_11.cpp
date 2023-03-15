@@ -2,7 +2,7 @@
 
 using namespace std;
 
-int main() {
+int main2525() {
 
 	// 논리 연산자
 
