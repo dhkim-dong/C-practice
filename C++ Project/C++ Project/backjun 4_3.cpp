@@ -3,7 +3,7 @@
 
 using namespace std;
 
-int main(int argc, const char * argv[])
+int main34(int argc, const char * argv[])
 {
 	int N; // 정수의 개수  입력
 
