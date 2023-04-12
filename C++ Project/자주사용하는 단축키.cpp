@@ -21,7 +21,7 @@ int Add3(int a, int b)
 	return a + b;
 }
 
-int main()
+int main25()
 {
 	int i = 0;
 	int i2 = 2;
@@ -38,6 +38,8 @@ int main()
 	// scanf
 	int  iInput = 0;
 	scanf_s("%d", &iInput);
+
+	return 0;
 }
 
 // ÄÜ¼Ö

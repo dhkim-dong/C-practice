@@ -1,2 +1,3 @@
-﻿  자주사용하는 단축키.cpp
+﻿  class_function.cpp
+D:\C++\C++ Project\C++ Project\class_function.cpp(27): warning C4717: 'Factorial': 모든 제어 경로에서 재귀적입니다. 함수로 인해 런타임 스택 오버플로가 발생합니다.
   C++ Project.vcxproj -> D:\C++\C++ Project\x64\Debug\C++ Project.exe
