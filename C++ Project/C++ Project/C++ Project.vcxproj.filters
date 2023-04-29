@@ -22,6 +22,9 @@
     <Filter Include="헤더 파일\백준\backJun 4단계">
       <UniqueIdentifier>{c7d58db1-f892-4669-b62b-21d803f8ed0d}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Array">
+      <UniqueIdentifier>{793352a0-c96a-417b-8440-9c1aa4ee5927}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Class.cpp">
@@ -72,10 +75,37 @@
     <ClCompile Include="class_function.cpp">
       <Filter>헤더 파일\Class</Filter>
     </ClCompile>
+    <ClCompile Include="class 구조체.cpp">
+      <Filter>헤더 파일\Class</Filter>
+    </ClCompile>
+    <ClCompile Include="class_지역변수.cpp">
+      <Filter>헤더 파일\Class</Filter>
+    </ClCompile>
+    <ClCompile Include="function.cpp">
+      <Filter>헤더 파일\Class</Filter>
+    </ClCompile>
+    <ClCompile Include="pointer.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Arr.cpp">
+      <Filter>Array</Filter>
+    </ClCompile>
+    <ClCompile Include="가변배열.cpp">
+      <Filter>Array</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Class.h">
       <Filter>헤더 파일\Class</Filter>
+    </ClInclude>
+    <ClInclude Include="function.h">
+      <Filter>헤더 파일\Class</Filter>
+    </ClInclude>
+    <ClInclude Include="common.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="Arr.h">
+      <Filter>Array</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>
