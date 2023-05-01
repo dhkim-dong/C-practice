@@ -52,3 +52,37 @@ void ReleaseArr(tArr* _pArr) {
 	_pArr->iCount = 0;
 	_pArr->iMaxCount = 0;
 }
+
+// 버블정렬 뒤로 갈수록 점점 커지는 정렬(오름차순)
+
+void Sort(tArr* _pArr, void(*SortFunc)(int*,int))
+{
+	SortFunc(_pArr->pInt, _pArr->iCount);
+
+	//// 예외 처리
+	//if (_pArr->iCount <= 1)
+	//	return;
+
+	//while (true)
+	//{
+	//	bool bFinish = true;
+
+	//	int iLoop = _pArr->iCount - 1;
+	//	for (int i = 0; i < iLoop; ++i)
+	//	{
+	//		// iLoop번 만큼 반복했는데 if문이 한번도 안걸렸다? 그러면 정렬 완료!
+	//		if (_pArr->pInt[i] > _pArr->pInt[i + 1]) {
+	//			int temp = _pArr->pInt[i];
+	//			_pArr->pInt[i] = _pArr->pInt[i + 1];
+	//			_pArr->pInt[i + 1] = temp;
+
+	//			bFinish = false;
+	//		}
+	//	}
+
+	//	if (bFinish)
+	//		break;
+	//}
+
+	//
+}
